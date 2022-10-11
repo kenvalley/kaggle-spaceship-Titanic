@@ -1,4 +1,3 @@
-### kaggle-spaceship-Titanic
 #### AI School Africa Capstone Project: Kaggle Spaceship Titanic:
 ##### Problem Description:
 
